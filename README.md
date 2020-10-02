@@ -1,6 +1,6 @@
-<a href="https://sourcerer.io/satouriko"><img align="right" src="https://github-readme-stats.vercel.app/api?username=satouriko&show_icons=true" /></a>
+# 🍐
 
-## 🍐
+<a href="https://sourcerer.io/satouriko"><img align="right" src="https://github-readme-stats.vercel.app/api?username=satouriko&show_icons=true" /></a>
 
 - 💻 爱着 web 前端/客户端
 - 🎀 憧憬交互设计/游戏/动画
