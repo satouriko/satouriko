@@ -60,5 +60,5 @@
 <code><img src="https://design.firefox.com/product-identity/firefox-developer-edition/firefox-logo-developer-edition.svg" alt="firefoxdeveloperedition" height="25" /></code>
 <code><img src="https://www.jetbrains.com/company/brand/img/logo1.svg" alt="jetbrains" height="25" /></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="archlinux" height="25" /></code>
-
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/GnuPG-Logo.svg" alt="gpg" height="25" /></code>
 
