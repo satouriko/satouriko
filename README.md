@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" src="https://x.cow.moe/leetcode-progress/?username=momocow" />
+<a href="https://leetcode.com/satouriko"><img align="right" src="https://leetcode-progress.cool2645.workers.dev/?username=satouriko" /></a>
 
 **Skillful at:**
 
