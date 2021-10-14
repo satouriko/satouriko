@@ -6,7 +6,7 @@
   PV (Since 2021)
 </p>
 
-<a href="https://sourcerer.io/satouriko"><img align="right" src="https://github-readme-stats.vercel.app/api?username=satouriko&show_icons=true" height="180" /></a>
+<a href="https://sourcerer.io/satouriko"><img align="right" src="https://github-readme-stats.vercel.app/api?username=satouriko&show_icons=true" height="170" /></a>
 
 - 🌙 Seeking truth and insights
 - 💻 Skills - Front-end
