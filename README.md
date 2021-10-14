@@ -16,7 +16,7 @@
 
 ---
 
-<a href="https://leetcode.com/satouriko"><img align="right" src="https://leetcode-progress.cool2645.workers.dev/?username=satouriko" /></a>
+<a href="https://leetcode.com/satouriko"><img align="right" src="https://leetcode-progress.cool2645.workers.dev/?username=satouriko" height="100" /></a>
 
 **Skillful at:**
 
