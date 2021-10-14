@@ -16,14 +16,14 @@
 
 ---
 
+<img align="right" src="https://x.cow.moe/leetcode-progress/?username=momocow" />
+
 **Skillful at:**
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="25"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="25"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="25"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stylus/stylus-original.svg" alt="stylus" height="25"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="25"/></code>
 <code><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="25"/></code>
 <code><img src="https://raw.githubusercontent.com/ReactiveX/rxjs/master/resources/CI-CD/logo/svg/RxJs_Logo_Basic.svg" alt="rxjs" height="25"/></code>
@@ -61,4 +61,3 @@
 <code><img src="https://www.jetbrains.com/company/brand/img/logo1.svg" alt="jetbrains" height="25" /></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="archlinux" height="25" /></code>
 <code><a href="https://github.com/satouriko/satouriko/blob/master/pgp.asc"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/GnuPG-Logo.svg" alt="gpg" height="25" /></a></code>
-
