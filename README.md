@@ -11,6 +11,7 @@
 - 🌙 Seeking truth and insights
 - 💻 Skills - Front-end
 - 🎀 Love - UI/Game/Animation
+- 🎐 M.S. in CS
 - 💓 Landing my brilliant thoughts
 
 ---
