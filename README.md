@@ -6,7 +6,7 @@
 
 <a href="https://sourcerer.io/satouriko">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=satouriko&show_icons=true&theme=omni">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=satouriko&show_icons=true&theme=omni" />
     <img src="https://github-readme-stats.vercel.app/api?username=satouriko&show_icons=true" height="170" />
   </picture>
 </a>
