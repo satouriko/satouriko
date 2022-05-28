@@ -7,12 +7,13 @@
 <a href="https://sourcerer.io/satouriko">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=satouriko&show_icons=true&theme=omni" />
-    <img src="https://github-readme-stats.vercel.app/api?username=satouriko&show_icons=true" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api?username=satouriko&show_icons=true" height="178" />
   </picture>
 </a>
 
 <a href="https://leetcode.com/satouriko">
   <picture>
-    <img align="right" src="https://leetcode-progress.cool2645.workers.dev/?username=satouriko" height="86" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-progress.cool2645.workers.dev/?username=satouriko&theme=dark" />
+    <img align="right" src="https://leetcode-progress.cool2645.workers.dev/?username=satouriko" />
   </picture>
 </a>
